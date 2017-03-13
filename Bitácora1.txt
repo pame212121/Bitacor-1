@@ -1,0 +1,21 @@
+Bitácora
+Nombre del estudiante: Pamela Sánchez Muñoz
+Carné: 2013019495
+Actividad: Primer contacto con el cliente
+Fecha: 26/03/17
+Llame al potencial futuro cliente vía llamada telefónica para comentarle un poco del curso de proyecto de ingeniería y hablar acerca de si podría ser el futuro cliente.
+Actividad: Avance de los documentos (Visión y Acta Constitutiva)
+Fecha: 02/03/17
+Una vez aprobado el proyecto por María Estrada vía correo, mi compañero de trabajo y yo procedimos a llenar un poco la información pedida en los documentos visión y acta constitutiva, hace falta mucha información. Trabajo grupal vía Skype y Google Drive.
+Actividad: Primera reunión formal con el cliente
+Fecha: 05/03/17
+Se le presentó al cliente la propuesta del proyecto y este nos explicó y detalló la aplicación deseada, se tomaron nota de todos los requerimientos.
+Actividad: Avance de los documentos (Visión y Acta Constitutiva)
+Fecha: 07/03/17
+Se siguió llenando los campos faltantes de los documentos, faltaron pocos rubros, en su mayoría los relacionados con características de la aplicación, ya que no se han realizado los casos de uso. Trabajo grupal vía Skype y Google Drive.
+Actividad: Avance de los documentos (Visión, Acta Constitutiva y Casos de uso)
+Fecha: 09/03/17
+Finalizamos el acta constitutiva, en la visión solo nos faltó el diagrama de Gantt, y se adelantaron los casos de uso. Trabajo grupal vía Skype y Google Drive.
+Actividad: Finalización de los documentos (Visión y Casos de uso)
+Fecha: 11/03/17
+Finalizamos los documentos de visión y casos de usos con su respectivo diagrama. Trabajo grupal vía Skype y Google Drive.
